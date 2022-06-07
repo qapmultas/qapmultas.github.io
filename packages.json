@@ -1,15 +1,12 @@
 {
-  "packages": {
-    "qapcorp/doctrine-plus-bundle": {
-      "dev-main": {
-        "name": "qapcorp/doctrine-plus-bundle",
-        "version": "dev-main",
-        "source": {
-          "type": "git",
-          "url": "git@bitbucket.org:raphahardt/doctrine-plus-bundle.git",
-          "reference": "5a11fb1a9d121ef291dd17293d1376585469b777"
+    "packages": [],
+    "includes": {
+        "include/all$d10534fc75e6648cc2c36c4341586c89848bc342.json": {
+            "sha1": "d10534fc75e6648cc2c36c4341586c89848bc342"
         }
-      }
-    }
-  }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "qapcorp/doctrine-plus-bundle"
+    ]
 }
