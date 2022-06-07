@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "qapcorp/doctrine-plus-bundle": {
+      "dev-main": {
+        "name": "qapcorp/doctrine-plus-bundle",
+        "version": "dev-main",
+        "source": {
+          "type": "git",
+          "url": "git@bitbucket.org:raphahardt/doctrine-plus-bundle.git"
+        }
+      }
+    }
+  }
+}
