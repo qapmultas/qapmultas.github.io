@@ -6,7 +6,8 @@
         "version": "dev-main",
         "source": {
           "type": "git",
-          "url": "git@bitbucket.org:raphahardt/doctrine-plus-bundle.git"
+          "url": "git@bitbucket.org:raphahardt/doctrine-plus-bundle.git",
+          "reference": "5a11fb1a9d121ef291dd17293d1376585469b777"
         }
       }
     }
