@@ -7,8 +7,14 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:raphahardt/doctrine-plus-bundle.git",
+                    "url": "https://bitbucket.org/raphahardt/doctrine-plus-bundle.git",
                     "reference": "5a11fb1a9d121ef291dd17293d1376585469b777"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/get/5a11fb1a9d121ef291dd17293d1376585469b777.zip",
+                    "reference": "5a11fb1a9d121ef291dd17293d1376585469b777",
+                    "shasum": ""
                 },
                 "require": {
                     "doctrine/doctrine-bundle": "^2.6",
@@ -35,7 +41,11 @@
                         "email": "raphael.hardt@gmail.com"
                     }
                 ],
-                "description": "Facilidades para o Doctrine ORM e DBAL"
+                "description": "Facilidades para o Doctrine ORM e DBAL",
+                "homepage": "https://bitbucket.org/raphahardt/doctrine-plus-bundle",
+                "support": {
+                    "source": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/src/5a11fb1a9d121ef291dd17293d1376585469b777/?at=main"
+                }
             }
         }
     }
