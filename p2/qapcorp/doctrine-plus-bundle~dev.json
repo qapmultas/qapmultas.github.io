@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://bitbucket.org/raphahardt/doctrine-plus-bundle.git",
-                    "reference": "5a11fb1a9d121ef291dd17293d1376585469b777"
+                    "reference": "63bc9d085aea6750d823a51a0858f827dc547484"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/get/5a11fb1a9d121ef291dd17293d1376585469b777.zip",
-                    "reference": "5a11fb1a9d121ef291dd17293d1376585469b777",
+                    "url": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/get/63bc9d085aea6750d823a51a0858f827dc547484.zip",
+                    "reference": "63bc9d085aea6750d823a51a0858f827dc547484",
                     "shasum": ""
                 },
                 "require": {
@@ -25,14 +25,19 @@
                     "symfony/http-kernel": "^6.1"
                 },
                 "require-dev": {
-                    "roave/security-advisories": "dev-latest"
+                    "symfony/test-pack": "^1.0"
                 },
-                "time": "2022-06-06T20:39:36+00:00",
+                "time": "2022-06-08T03:55:30+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
-                        "QapCorp\\DoctrinePlusBundle\\": "src/"
+                        "QapCorp\\Bundle\\DoctrinePlusBundle\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "QapCorp\\Bundle\\DoctrinePlusBundle\\Tests\\": "tests/"
                     }
                 },
                 "authors": [
@@ -44,7 +49,7 @@
                 "description": "Facilidades para o Doctrine ORM e DBAL",
                 "homepage": "https://bitbucket.org/raphahardt/doctrine-plus-bundle",
                 "support": {
-                    "source": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/src/5a11fb1a9d121ef291dd17293d1376585469b777/?at=main"
+                    "source": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/src/63bc9d085aea6750d823a51a0858f827dc547484/?at=main"
                 }
             }
         ]
