@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://bitbucket.org/raphahardt/doctrine-plus-bundle.git",
-                    "reference": "63bc9d085aea6750d823a51a0858f827dc547484"
+                    "reference": "b45276cf3571cf80317d24ae4026fda1010a2f8b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/get/63bc9d085aea6750d823a51a0858f827dc547484.zip",
-                    "reference": "63bc9d085aea6750d823a51a0858f827dc547484",
+                    "url": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/get/b45276cf3571cf80317d24ae4026fda1010a2f8b.zip",
+                    "reference": "b45276cf3571cf80317d24ae4026fda1010a2f8b",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                 "require-dev": {
                     "symfony/test-pack": "^1.0"
                 },
-                "time": "2022-06-08T03:55:30+00:00",
+                "time": "2022-06-09T20:33:53+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
@@ -40,6 +40,9 @@
                         "QapCorp\\Bundle\\DoctrinePlusBundle\\Tests\\": "tests/"
                     }
                 },
+                "license": [
+                    "proprietary"
+                ],
                 "authors": [
                     {
                         "name": "Raphael Hardt",
@@ -49,7 +52,7 @@
                 "description": "Facilidades para o Doctrine ORM e DBAL",
                 "homepage": "https://bitbucket.org/raphahardt/doctrine-plus-bundle",
                 "support": {
-                    "source": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/src/63bc9d085aea6750d823a51a0858f827dc547484/?at=main"
+                    "source": "https://bitbucket.org/raphahardt/doctrine-plus-bundle/src/b45276cf3571cf80317d24ae4026fda1010a2f8b/?at=main"
                 }
             }
         ]
